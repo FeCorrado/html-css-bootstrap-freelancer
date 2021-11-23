@@ -1,0 +1,35 @@
+.bgrey{
+    background-color: rgb(62, 66, 92);
+}
+
+.w{
+    color: white;
+}
+
+.greenw{
+    background-color: lightgreen;
+}
+
+.h{
+    height: 50px;
+}
+
+.h-{
+    height: 30px;
+}
+
+.hh{
+    height: 150px;
+}
+
+.gr{
+    color: rgb(63, 63, 63);
+}
+
+.lgr{
+    background-color: rgb(68, 66, 146);
+}
+
+.cen{
+    width: 100%;
+}
