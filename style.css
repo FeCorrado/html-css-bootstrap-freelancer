@@ -33,3 +33,29 @@
 .cen{
     width: 100%;
 }
+
+.linea{
+    height: 3px;
+    width: 50px;
+}
+
+.mg0{
+    margin: 0 auto;
+}
+
+.bsh{
+    color: rgb(41, 41, 41);
+}
+
+.bs{
+
+    background-color: rgb(41, 41, 41);
+}
+
+.ws{
+    background-color: white;
+}
+
+.mbh{
+    margin-bottom: 30px;
+}
